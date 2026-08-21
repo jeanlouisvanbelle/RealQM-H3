@@ -1,0 +1,18 @@
+# H3+ RealQM Simulation Parameters
+
+Cores: 3
+  Core 0: (0.0000, 1.0000, 0.0000) Z=1.0
+  Core 1: (-0.8660, -0.5000, 0.0000) Z=1.0
+  Core 2: (0.8660, -0.5000, 0.0000) Z=1.0
+Grid: 41^3
+Box: +/- 3.0
+Steps: 500
+dt: 0.0005
+
+Final energy: -1.835879
+Final kinetic: 1.977531
+Final potential: -3.614609
+Final EE repulsion: -0.198800
+Final overlap: 0.00000000
+
+Virial ratio (-V/T): 1.827840
